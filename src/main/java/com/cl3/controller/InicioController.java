@@ -13,4 +13,5 @@ public class InicioController {
 	public String verInicio() {
 		return "redirect:swagger-ui.html";
 	}
+	
 }
