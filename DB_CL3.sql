@@ -1,5 +1,4 @@
-Create database if not exists `db_cl3`;
-Use `db_cl3`;
+Use `heroku_4c6102e8a1edae2`;
 
 /* Categorías */
 
